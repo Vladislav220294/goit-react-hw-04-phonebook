@@ -1,0 +1,21 @@
+.bos {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  border: 1px solid black;
+  padding: 20px;
+}
+.text {
+  width: 100px;
+  display: block;
+  font-size: 20px;
+  color: burlywood;
+  margin-bottom: 10px;
+}
+.button {
+  background: burlywood;
+  border-radius: 5px;
+  width: 200px;
+  height: 30px;
+  font-size: 20px;
+}

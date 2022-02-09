@@ -1,0 +1,27 @@
+.list {
+  padding: 10px;
+  margin: o auto;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+
+  margin-right: 10px;
+}
+.name {
+  width: 200px;
+  margin-right: 10px;
+  color: black;
+}
+.number {
+  margin-right: 10px;
+  color: black;
+}
+.buttom {
+  margin: auto 0;
+  display: block;
+  background: blanchedalmond;
+  width: 100px;
+  height: 25px;
+}
